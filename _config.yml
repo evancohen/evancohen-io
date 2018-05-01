@@ -1,1 +1,6 @@
 theme: jekyll-theme-midnight
+plugins:
+  - jekyll-analytics
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-118570624-1
