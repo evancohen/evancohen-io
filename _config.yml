@@ -1,6 +1,4 @@
 theme: jekyll-theme-midnight
-plugins:
-  - jekyll-analytics
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-118570624-1
+google_analytics: UA-118570624-1
+title: Where in the world is Evan 
+description: 🌎 Next Stop: Bay Area
