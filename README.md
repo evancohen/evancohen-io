@@ -34,4 +34,5 @@ My really rough travel itinerary. I'll flush this out more over the coming week
 - New Zealand
 - Argentina
 - Chile
+- Nepal
 - *more*
