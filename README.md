@@ -1,8 +1,3 @@
----
-Track me as I travel around the 🌎
-Next stop: Bay Area
----
-
 ## Travel Itinerary
 My really rough travel itinerary. I'll flush this out more over the coming week
 
