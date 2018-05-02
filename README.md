@@ -25,4 +25,13 @@ My really rough travel itinerary. I'll flush this out more over the coming week
 - Croatia
 - Eastern Germany
 - Poland
+- Morocco
+- Ejypt
+- Dubi
+- Jordan
+- Israel
+- South Africa
+- New Zealand
+- Argentina
+- Chile
 - *more*
