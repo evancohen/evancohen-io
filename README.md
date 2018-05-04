@@ -23,8 +23,11 @@ My really rough travel itinerary. I'll flush this out more over the coming week
 
 - Slovenia
 - Croatia
-- Eastern Germany
-- Poland
+- Germany (Eastern?)
+- Poland (Wrocław, Kraków)
+- Ukraine (Lviv [good hot chockolate], Kiev)
+- Crimea
+- Bulgaria (Sofia)
 - Morocco
 - Ejypt
 - Dubi
@@ -36,4 +39,6 @@ My really rough travel itinerary. I'll flush this out more over the coming week
 - Chile
 - Nepal
 - Portugal
+- Estonia
+- Hungary (Budapest)
 - *more*
