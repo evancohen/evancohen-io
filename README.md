@@ -35,4 +35,5 @@ My really rough travel itinerary. I'll flush this out more over the coming week
 - Argentina
 - Chile
 - Nepal
+- Portugal
 - *more*
