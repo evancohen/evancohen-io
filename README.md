@@ -42,3 +42,7 @@ My really rough travel itinerary. I'll flush this out more over the coming week
 - Estonia
 - Hungary (Budapest)
 - *more*
+
+```
+Send a pull request with suggestions!
+```
