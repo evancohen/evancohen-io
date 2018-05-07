@@ -5,7 +5,7 @@ My really rough travel itinerary. I'll flush this out more over the coming week
 - May 10-21: `Bay Area`
 - May 21-31: `London`
 - May 31-Jun 4: `Rome`
-- Jun 5-10: Road trip to `Italy`
+- Jun 5-10: Road trip to `Pescara`
 - Jun 10 - July 13: `Eastern Europe` (TBD)
 - July 14-29: Backpacking in `Colorado`
 - Aug 1-17: `Alaska` Adventure
