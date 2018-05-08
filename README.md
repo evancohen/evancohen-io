@@ -43,6 +43,5 @@ My really rough travel itinerary. I'll flush this out more over the coming week
 - Hungary (Budapest)
 - *more*
 
-```
-Send a pull request with suggestions!
-```
+
+> [Send a pull request](https://github.com/evancohen/evancohen-io/edit/master/README.md) with suggestions!
