@@ -1,7 +1,7 @@
 ## Travel Itinerary
 My really rough travel itinerary. I'll confinue to flush this out as my plans develop.
 
-> Want to join me for a leg? Contact me on [Facebook](https://www.facebook.com/evanbtcohen) or [Twitter](https://twitter.com/_evnc)!
+### Follow my [Instagram](https://www.instagram.com/_evnc/) for photos of my adventures
 
 - May 10: Leave `Seattle`
 - May 10-21: `Bay Area` 
@@ -37,8 +37,8 @@ My really rough travel itinerary. I'll confinue to flush this out as my plans de
    - Tear out an old school bus/RV and install a maker/fabircation lab (3D Printers, Laser CNC, etc.)
 - Feb 1-?: `USA` cross country road trip
   - Giving lectures to high school and university students about AI (how it will impact their lives, and how they can have a hand in shaping it)
-
-### Follow my [Instagram](https://www.instagram.com/_evnc/)
+  
+> Want to join me for a leg? Contact me on [Facebook](https://www.facebook.com/evanbtcohen) or [Twitter](https://twitter.com/_evnc)!
 
 ## Places I want to go
 
