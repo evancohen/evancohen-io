@@ -27,9 +27,10 @@ Follow my [Instagram](https://www.instagram.com/_evnc/) for photos of my adventu
 - Aug 1-17: `Alaska` Adventure
   - Some subsistance living on `Pelican`
   - Hiking the `Chilkoot` Trail
-- ???
+- ??? (Possibly `Nepal`, meditating in temples)
 - Sept 13-29: `South East Asia`
-- ???
+  - With Raf, Carlo, and Phil
+- ??? (Possibly `New Zealand`)
 - Oct 20-Nov 8: `Australia`
   - Scuba Diving Road Trip up the East coast with Andre
 - Nov 8-15: `Seattle`
@@ -38,7 +39,7 @@ Follow my [Instagram](https://www.instagram.com/_evnc/) for photos of my adventu
   - Thanksgiving with the family and prepping the boat
   - Sailing from the `Bay Area` to `La Paz`
   - Doing some island beach hopping, more scuba, and wake boarding :D
-- ???
+- ??? (Somewhere in `South America` for a couple of weeks)
 - Jan 1-30: `Seattle`
    - Tear out an old school bus/RV and install a maker/fabircation lab (3D Printers, Laser CNC, etc.)
 - Feb 1-?: `USA` cross country road trip
