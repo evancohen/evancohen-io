@@ -1,7 +1,12 @@
 ## Travel Itinerary
 My really rough travel itinerary. I'll confinue to flush this out as my plans develop.
 
-### Follow my [Instagram](https://www.instagram.com/_evnc/) for photos of my adventures
+Follow my [Instagram](https://www.instagram.com/_evnc/) for photos of my adventures
+<!-- SnapWidget -->
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/546880" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+
+### Current Itinerary
 
 - May 10: Leave `Seattle`
 - May 10-21: `Bay Area` 
@@ -18,6 +23,7 @@ My really rough travel itinerary. I'll confinue to flush this out as my plans de
   - I'll be planning this leg once I'm in Italy. For now it'll stay veague.
 - July 14-29: Backpacking in `Colorado`
   - Returning to the states for our yearly traditional backpacking trip with our Danish side of the family.
+  - This year we'll be in the `Rocky Mountain National Park`
 - Aug 1-17: `Alaska` Adventure
   - Some subsistance living on `Pelican`
   - Hiking the `Chilkoot` Trail
