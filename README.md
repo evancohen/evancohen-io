@@ -46,6 +46,13 @@ Follow my [Instagram](https://www.instagram.com/_evnc/) for photos of my adventu
   
 > Want to join me for a leg? Contact me on [Facebook](https://www.facebook.com/evanbtcohen) or [Twitter](https://twitter.com/_evnc)!
 
+### Track me
+Now you can [opt-in](https://assistant.google.com/services/a/uid/000000d769c586d6) to the "Evan Locator" for Google Assistant (beta). Example Below:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The &quot;Evan Locater&quot; skill for Google Assistant and Alexa, coming soon! <a href="https://t.co/qTwsmJ7ieW">pic.twitter.com/qTwsmJ7ieW</a></p>&mdash; Evan Cohen 🚀 (@_evnc) <a href="https://twitter.com/_evnc/status/997691421170720769?ref_src=twsrc%5Etfw">May 19, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ## Places I want to go
 
 - Slovenia
