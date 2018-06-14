@@ -1,6 +1,6 @@
 ## Travel Itinerary
 My really rough travel itinerary. I'll confinue to flush this out as my plans develop.  
-Follow my [Instagram](https://www.instagram.com/_evnc/) for photos of my adventures.
+### Follow my [Instagram](https://www.instagram.com/_evnc/) for photos of my adventures.
 <!-- SnapWidget -->
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
 <iframe src="https://snapwidget.com/embed/546880" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
@@ -18,8 +18,16 @@ Follow my [Instagram](https://www.instagram.com/_evnc/) for photos of my adventu
   - With Michael and Co.
 - Jun 10 - Jun 15: `Venice`
   - Explore for 5 days
-- Jun 15 - July 13: `South Eastern Europe` ([Plan in progress](https://uploads.knightlab.com/storymapjs/c2d08865d6bb2ea8c8b3cb92fc1703fd/europe/index.html))
-  - I'll be planning this leg once I'm in Italy. For now it'll stay vague.
+- Jun 14 - July 13: `South Eastern Europe` ([Visual Map](https://uploads.knightlab.com/storymapjs/c2d08865d6bb2ea8c8b3cb92fc1703fd/europe/index.html)) Rough Schedule:
+  - Jun 14 - Jun 16: `Venice`
+  - Jun 16 - Jun 19: `Ljubljana`
+  - Jun 19 - Jun 22: `Zadar`
+  - Jun 22 - Jun 25: `Belgrade`
+  - Jun 25 - Jun 28: `Tirana`
+  - Jun 28 - Jul 01: `Sofia`
+  - Jul 01 - Jul 04: `Istanbul`
+  - Jul 04 - Jul 07: `Athens`
+  - Jul 07 - Jul 10: `Marrakesh`
 - July 14-29: Backpacking in `Colorado`
   - Returning to the states for our yearly traditional backpacking trip with our Danish side of the family.
   - This year we'll be in the `Rocky Mountain National Park`
