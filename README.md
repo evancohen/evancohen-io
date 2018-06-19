@@ -14,7 +14,7 @@ My really rough travel itinerary. I'll confinue to flush this out as my plans de
   - Visiting Michael, Mave, and Fip. Turns out @mbembaships will be there too!
 - May 31-Jun 4: `Rome`
   - Explore on my own for 5 days, then Michael will join for 2 with some friends.
-- Jun 5-10: Road trip to `Pescara`
+- Jun 5-10: Bus to `Pescara` and then rent a car and drive down to Sorento/Corfinio
   - With Michael and Co.
 - Jun 10 - Jun 15: `Venice`
   - Explore for 5 days

@@ -1,5 +1,3 @@
-const VERSION = "3.0.0";
-
 const APP_CACHE_NAME = 'evancohen-io-app';
 const STATIC_CACHE_NAME = 'evancohen-io-static';
 
