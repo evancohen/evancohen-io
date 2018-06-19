@@ -51,19 +51,17 @@ self.addEventListener('activate', function(e) {
 });
 
 this.addEventListener('fetch', function(event) {
-  var response;
-  event.respondWith(caches.match(event.request)
-    .then(function (match) {
-      return match || fetch(event.request);
-    }).catch(function() {
-      return fetch(event.request);
-    })
-    .then(function(r) {
-      response = r;
-      caches.open(cacheName).then(function(cache) {
-        cache.put(event.request, response);
-      });
-      return response.clone();
-    })
-  );
+    console.log('Fetch event fired.', event.request.url);
+	event.respondWith(
+		caches.match(event.request).then(function(response) {
+			if (response) {
+				console.log('Retrieving from cache...');
+				return response;
+			}
+			console.log('Retrieving from URL...');
+			return fetch(event.request).catch(function(event){
+				console.log('Fetch request failed!');
+			});
+		})
+	);
 });
