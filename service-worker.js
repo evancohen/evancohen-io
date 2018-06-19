@@ -4,6 +4,7 @@ const STATIC_CACHE_NAME = 'evancohen-io-static';
 console.log(`installing sw.js`);
 
 const CACHE_STATIC = [
+    '/assets/css/style.css',
     '/assets/images/bullet.png',
     '/assets/images/nav-bg.gif',
     '/assets/images/hr.gif'
