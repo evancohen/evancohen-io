@@ -36,12 +36,12 @@ self.addEventListener('activate', function(e) {
     e.waitUntil(
         Promise.all([
             self.clients.claim(),
-            caches.keys().then(function(cacheNames) {
+            caches.keys().then(function(keyList) {
                 return Promise.all(
-                    cacheNames.map(function(cacheName) {
-                        if (cacheName !== APP_CACHE_NAME && cacheName !== STATIC_CACHE_NAME) {
-                            console.log('deleting',cacheName);
-                            return caches.delete(cacheName);
+                    keyList.map(function(key) {
+                        if (key !== APP_CACHE_NAME && key !== STATIC_CACHE_NAME) {
+                            console.log('deleting', key);
+                            return caches.delete(key);
                         }
                     })
                 );
