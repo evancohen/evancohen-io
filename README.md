@@ -2,8 +2,7 @@
 My really rough travel itinerary. I'll confinue to flush this out as my plans develop.  
 ### Follow my [Instagram](https://www.instagram.com/_evnc/) for photos of my adventures.
 <!-- SnapWidget -->
-<script src="https://snapwidget.com/js/snapwidget.js"></script>
-<iframe src="https://snapwidget.com/embed/546880" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+<iframe src="https://snapwidget.com/embed/546880" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; height:62vw; max-height:437px;"></iframe>
 
 ### Current Itinerary
 
