@@ -1,8 +1,8 @@
 {
   "name": "Travel Itinerary",
-  "short_name": "travelitinerary",
+  "short_name": "Itinerary",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#594641",
-  "theme_color": "#594641"
+  "background_color": "#90a959",
+  "theme_color": "#90a959"
 }
