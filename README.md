@@ -19,14 +19,14 @@ My really rough travel itinerary. I'll confinue to flush this out as my plans de
   - Explore for 5 days
 - Jun 14 - July 13: `South Eastern Europe` ([Visual Map](https://uploads.knightlab.com/storymapjs/c2d08865d6bb2ea8c8b3cb92fc1703fd/europe/index.html)) Rough Schedule:
   - Jun 14 - Jun 16: `Venice`
-  - Jun 16 - Jun 19: `Ljubljana`
-  - Jun 19 - Jun 22: `Zadar`
-  - Jun 22 - Jun 25: `Belgrade`
-  - Jun 25 - Jun 28: `Tirana`
-  - Jun 28 - Jul 01: `Sofia`
-  - Jul 01 - Jul 04: `Istanbul`
-  - Jul 04 - Jul 07: `Athens`
-  - Jul 07 - Jul 10: `Marrakesh`
+  - Jun 16 - Jun 20: `Ljubljana`
+  - Jun 20 - Jun 23: `Zadar`
+  - Jun 23 - Jun 26: `Belgrade`
+  - Jun 26 - Jun 29: `Tirana`
+  - Jun 29 - Jul 02: `Sofia`
+  - Jul 02 - Jul 05: `Istanbul`
+  - Jul 05 - Jul 08: `Athens`
+  - Jul 08 - Jul 11: `Marrakesh`
 - July 14-29: Backpacking in `Colorado`
   - Returning to the states for our yearly traditional backpacking trip with our Danish side of the family.
   - This year we'll be in the `Rocky Mountain National Park`
