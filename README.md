@@ -17,7 +17,7 @@ My really rough travel itinerary. I'll confinue to flush this out as my plans de
   - With Michael and Co.
 - Jun 10 - Jun 15: `Venice`
   - Explore for 5 days
-- Jun 14 - July 13: `South Eastern Europe` ([Visual Map](https://uploads.knightlab.com/storymapjs/c2d08865d6bb2ea8c8b3cb92fc1703fd/europe/index.html)) Rough Schedule:
+- Jun 14 - July 17: `South Eastern Europe` ([Visual Map](https://uploads.knightlab.com/storymapjs/c2d08865d6bb2ea8c8b3cb92fc1703fd/europe/index.html)) Rough Schedule:
   - Jun 14 - Jun 16: `Venice`
   - Jun 16 - Jun 20: `Ljubljana`
   - Jun 20 - Jun 23: `Zadar`
@@ -30,7 +30,7 @@ My really rough travel itinerary. I'll confinue to flush this out as my plans de
   - Jul 10 - Jul 13: `Athens`
   - Jul 13 - Jul 16: `Istanbul`
   - Jul 16 - Jul 17: `London` (Back to catch return flight)
-- July 14-29: Backpacking in `Colorado`
+- July 17-29: Backpacking in `Colorado`
   - Returning to the states for our yearly traditional backpacking trip with our Danish side of the family.
   - This year we'll be in the `Rocky Mountain National Park`
 - Aug 1-17: `Alaska` Adventure
