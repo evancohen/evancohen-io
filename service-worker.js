@@ -1,78 +1,32 @@
-// Import offline 
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-sw.js');
+---
+    layout: null
+---
+    importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-sw.js');
+
+if (workbox) {
+    console.log(`Yay! Workbox is loaded 🎉`);
+} else {
+    console.log(`Boo! Workbox didn't load 😬`);
+}
+
+// Use offline Google Analytics
 workbox.googleAnalytics.initialize();
 
-const APP_CACHE_NAME = 'evancohen-io-app';
-const STATIC_CACHE_NAME = 'evancohen-io-static';
+workbox.precaching.precacheAndRoute([
+    "{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}",
+    { url: '/index.html', revision: '{{ site.github.build_revision }}' }
+]);
 
-console.log(`installing sw.js`);
+// Cache CSS and JavaScript
+workbox.routing.registerRoute(
+    /\.(?:js|css)$/,
+    workbox.strategies.staleWhileRevalidate(),
+);
 
-const CACHE_STATIC = [
-    '/assets/css/style.css',
-    '/assets/images/bullet.png',
-    '/assets/images/nav-bg.gif',
-    '/assets/images/hr.gif'
-];
-
-const CACHE_APP = [
-    '/',
-    '/index.html',
-];
-
-self.addEventListener('install', function (e) {
-    e.waitUntil(
-        Promise.all([
-            caches.open(STATIC_CACHE_NAME),
-            caches.open(APP_CACHE_NAME),
-            self.skipWaiting()
-        ]).then(function (storage) {
-            var static_cache = storage[0];
-            var app_cache = storage[1];
-            return Promise.all([
-                static_cache.addAll(CACHE_STATIC),
-                app_cache.addAll(CACHE_APP)]);
-        })
-    );
-});
-
-self.addEventListener('activate', function (e) {
-    e.waitUntil(
-        Promise.all([
-            self.clients.claim(),
-            caches.keys().then(function (keyList) {
-                return Promise.all(
-                    keyList.map(function (key) {
-                        if (key !== APP_CACHE_NAME && key !== STATIC_CACHE_NAME) {
-                            console.log('deleting', key);
-                            return caches.delete(key);
-                        }
-                    })
-                );
-            })
-        ])
-    );
-});
-
-this.addEventListener('fetch', function (event) {
-    console.log('Fetch event fired.', event.request.url);
-    event.respondWith(
-        caches.match(event.request).then(function (response) {
-            // Online first for HTML
-            if (event.request.headers.get('Accept').indexOf('text/html') !== -1) {
-                fetch(event.request).then(response => {
-                    if (response.ok)
-                        addToCache(pagesCacheName, request, response.clone());
-                    return response;
-                })
-            }
-            else if (response) {
-                console.log('Retrieving from cache...');
-                return response;
-            }
-            console.log('Retrieving from URL...');
-            return fetch(event.request).catch(function (event) {
-                console.log('Fetch request failed!');
-            });
-        })
-    );
-});
+// Cache images
+workbox.routing.registerRoute(
+    /\.(?:png|gif|jpg|svg)$/,
+    workbox.strategies.cacheFirst({
+        cacheName: 'images-cache'
+    })
+);

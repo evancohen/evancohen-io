@@ -2,3 +2,5 @@ theme: jekyll-theme-midnight
 google_analytics: UA-118570624-1
 title: "Evan's Travel Itinerary"
 description: "The travel site of Evan Cohen while he adventures around the wold."
+repository: evancohen/evancohen-io
+github: [metadata]
