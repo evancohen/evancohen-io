@@ -17,6 +17,12 @@ workbox.precaching.precacheAndRoute([
     { url: '/index.html', revision: '{{ site.github.build_revision }}' }
 ]);
 
+// Cache manifest
+workbox.routing.registerRoute(
+    "/manifest.json",
+    workbox.strategies.staleWhileRevalidate(),
+);
+
 // Cache CSS and JavaScript
 workbox.routing.registerRoute(
     /\.(?:js|css)$/,
