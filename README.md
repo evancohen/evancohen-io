@@ -21,12 +21,15 @@ My really rough travel itinerary. I'll confinue to flush this out as my plans de
   - Jun 14 - Jun 16: `Venice`
   - Jun 16 - Jun 20: `Ljubljana`
   - Jun 20 - Jun 23: `Zadar`
-  - Jun 23 - Jun 26: `Belgrade`
-  - Jun 26 - Jun 29: `Tirana`
-  - Jun 29 - Jul 02: `Sofia`
-  - Jul 02 - Jul 05: `Istanbul`
-  - Jul 05 - Jul 08: `Athens`
-  - Jul 08 - Jul 11: `Marrakesh`
+  - Jun 23 - Jun 27: `Belgrade`
+  - Jun 27 - Jun 29: `Sarajevo`
+  - Jun 29 - Jul 02: `Kotor`
+  - Jul 02 - Jul 05: `Tirana`
+  - Jul 05 - Jul 07: `Pristina`
+  - Jul 07 - Jul 10: `Sofia`
+  - Jul 10 - Jul 13: `Athens`
+  - Jul 13 - Jul 16: `Istanbul`
+  - Jul 16 - Jul 17: `London` (Back to catch return flight)
 - July 14-29: Backpacking in `Colorado`
   - Returning to the states for our yearly traditional backpacking trip with our Danish side of the family.
   - This year we'll be in the `Rocky Mountain National Park`
