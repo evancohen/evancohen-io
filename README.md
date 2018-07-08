@@ -33,7 +33,7 @@ My really rough travel itinerary. I'll confinue to flush this out as my plans de
 - July 17-29: Backpacking in `Colorado`
   - Returning to the states for our yearly traditional backpacking trip with our Danish side of the family.
   - This year we'll be in the `Rocky Mountain National Park`
-- Aug 1-17: `Alaska` Adventure
+- Aug 4-18: `Alaska` Adventure
   - Some subsistance living on `Pelican`
   - Hiking the `Chilkoot` Trail
 - ??? (Possibly `Nepal`, meditating in temples)
