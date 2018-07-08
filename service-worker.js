@@ -14,7 +14,7 @@ workbox.googleAnalytics.initialize();
 
 workbox.precaching.precacheAndRoute([
     "{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}",
-    { url: '/index.html', revision: '{{ site.github.build_revision }}' }
+    { url: '/', revision: '{{ site.github.build_revision }}' }
 ]);
 
 // Cache manifest
