@@ -44,7 +44,7 @@ My really rough travel itinerary. I'll confinue to flush this out as my plans de
   - `Bali`
   - `Taiwan`
 - Oct 20-Nov 8: `Australia`
-  - Scuba Diving Road Trip up the East coast with Andre
+  - Scuba Diving Road Trip up the East coast with Andre, Zander, and Juliet
 - Nov 8-15: `Seattle`
   - Back in Seattle for Parker and Ana's wedding <3
 - Nov 20-Dec 10: `Bay Area`
