@@ -33,13 +33,16 @@ My really rough travel itinerary. I'll confinue to flush this out as my plans de
 - July 17-29: Backpacking in `Colorado`
   - Returning to the states for our yearly traditional backpacking trip with our Danish side of the family.
   - This year we'll be in the `Rocky Mountain National Park`
-- Aug 4-18: `Alaska` Adventure
-  - Some subsistance living on `Pelican`
-  - Hiking the `Chilkoot` Trail
-- ??? (Possibly `Nepal`, meditating in temples)
-- Sept 13-29: `South East Asia`
-  - With Raf, Carlo, and Phil
-- ??? (Possibly `New Zealand`)
+- Aug 4-18: ~~`Alaska` Adventure~~ Hurt my knee, going to do PT in Seattle
+  - ~~Some subsistance living on `Pelican`~~
+  - ~~Hiking the `Chilkoot` Trail~~
+- Sept 21- Oct 20: `South East Asia` (Meeting up with Raf, Carlo, and Phil at some point)
+  - `Thailand`
+  - `Cambodia`
+  - `Vietnam`
+  - `Laos`
+  - `Bali`
+  - `Taiwan`
 - Oct 20-Nov 8: `Australia`
   - Scuba Diving Road Trip up the East coast with Andre
 - Nov 8-15: `Seattle`
