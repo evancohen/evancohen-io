@@ -37,10 +37,15 @@ My really rough travel itinerary. I'll confinue to flush this out as my plans de
   - ~~Some subsistance living on `Pelican`~~
   - ~~Hiking the `Chilkoot` Trail~~
 - Sept 21- Oct 20: `South East Asia` (Meeting up with Raf, Carlo, and Phil at some point)
-  - `Thailand`
   - `Cambodia`
+    - Aug 23 - Aug 27: `Siam Reap` Check out Angkor Wat & other temples
   - `Vietnam`
+    - Aug 27 - Aug 30: `Hanoi` Explore the city and eat amazing food
+    - Aug 30 - Sep 1: `Cat Ba` Hike the island, go ziplining, and rock climbing
+    - Sep 1 - Sep 4: `Ninh Binh` ???
+    - Sep 4 - Sep 6: `Sa Pa` ???
   - `Laos`
+  - `Thailand`
   - `Bali`
   - `Taiwan`
 - Oct 20-Nov 8: `Australia`
