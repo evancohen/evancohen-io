@@ -23,6 +23,11 @@ workbox.routing.registerRoute(
     workbox.strategies.staleWhileRevalidate(),
 );
 
+workbox.routing.registerRoute(
+    new RegExp('https:\/\/raw.githubusercontent.com/evancohen/evancohen-io/.*'),
+    workbox.strategies.networkFirst(),
+);
+
 // Cache CSS and JavaScript
 workbox.routing.registerRoute(
     /\.(?:js|css)$/,

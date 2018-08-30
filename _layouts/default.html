@@ -51,8 +51,8 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <hr>
-        <span class="credits left">Current Location: 🌎{{ site.data.location.current }} </span>
-        <span class="credits right">Next Destination: 🌎{{ site.data.location.next }} </span>
+        <span class="credits left">Current Location: 🌎<span id="location-current">{{ site.data.location.current }}</span></span>
+        <span class="credits right">Next Destination: 🌎<span id="location-next">{{ site.data.location.next }}</span></span>
       </div>
 
       {{ content }}
