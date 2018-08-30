@@ -24,7 +24,7 @@ workbox.routing.registerRoute(
 );
 
 workbox.routing.registerRoute(
-    new RegExp('https:\/\/raw.githubusercontent.com/evancohen/evancohen-io/.*'),
+    new RegExp('https:\/\/raw.githubusercontent.com\/evancohen\/evancohen-io\/.*'),
     workbox.strategies.networkFirst(),
 );
 
