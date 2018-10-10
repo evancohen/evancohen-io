@@ -4,11 +4,12 @@ if ('serviceWorker' in navigator) {
 		.then(function () { console.log('Registered service worker!'); });
 }
 
-$(function (){
-    $.get("https://raw.githubusercontent.com/evancohen/evancohen-io/master/_data/location.json", function (data) {
-	if(data){
-		$("#location-current").text(data.current)
-		$("#location-next").text(data.next)
-	}
-    })
+$(function () {
+	$.get("https://raw.githubusercontent.com/evancohen/evancohen-io/master/_data/location.json", function (data) {
+		if (data) {
+			let locations = JSON.parse(data)
+			$("#location-current").text(locations.current)
+			$("#location-next").text(locations.next)
+		}
+	})
 })
